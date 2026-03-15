@@ -17,5 +17,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ## 📫 Contato
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:cintiacostati@gmail.com)
+cintiacostati@gmail.com
