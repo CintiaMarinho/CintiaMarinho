@@ -1,9 +1,9 @@
 ##  👋 Olá! Eu sou a Cintia!
 
-- 🎓 Estudante de Desenvolvimento de Sistemas  
-- ⚡ Interessada em tecnologia e programação
-- 🚀 Preparando-se para o mercado de tecnologia 
-- 📚 Sempre aprendendo algo novo
+- 🎓 Estudante de Desenvolvimento de Sistemas.  
+- ⚡ Interessada em tecnologia e programação.
+- 🚀 Preparando-se para o mercado de tecnologia. 
+- 📚 Sempre aprendendo algo novo.
 
 ##  Tecnologias que estou aprendendo
 <div style="display: inline_block"><br>
